@@ -1,0 +1,23 @@
+html {
+	text-align: center;
+}
+
+body {
+	padding: 50px;
+}
+
+h1 {
+	display: inline-block;
+	border-bottom: 1px solid black;
+}
+
+h3 {
+	color: rgb(50, 50, 50);
+}
+
+div {
+	font-size: 20px;
+	position: relative;
+	top: 100px;
+	color: rgb(200, 0, 0);
+}
